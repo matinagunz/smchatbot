@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619853866059",
+    "project_id": "sunmoonchatbot-d1cc6",
+    "storage_bucket": "sunmoonchatbot-d1cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619853866059:android:3a89fb309f120ecc97d9ce",
+        "android_client_info": {
+          "package_name": "com.example.smchatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619853866059-183fbgq4s579u69aedsgodudnd3t2qed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjfn1aEGpKqoLCLO33HmXgM5FRKrvSEnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619853866059-183fbgq4s579u69aedsgodudnd3t2qed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
